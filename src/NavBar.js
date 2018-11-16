@@ -5,11 +5,11 @@ class NavBar extends Component {
 	render() {
 		return(
 			<div>
-				<Navbar brand='exscruzme' left className="navbar">
-				  <NavItem href='get-started.html' className="navitem">Home</NavItem>
-				  <NavItem href='components.html'>Experience</NavItem>
-				  <NavItem href='components.html'>Connect</NavItem>
-				  <NavItem href='components.html'>Fun Stuff</NavItem>
+				<Navbar brand='exscruzme' href='#' left className="navbar">
+				  <NavItem href='#'>Home</NavItem>
+				  <NavItem href='#'>Experience</NavItem>
+				  <NavItem href='#'>Connect</NavItem>
+				  <NavItem href='#'>Fun Stuff</NavItem>
 				</Navbar>
 			</div>
 		);
