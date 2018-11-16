@@ -24,7 +24,7 @@ class Connect extends Component {
 					</section>
 					<section>
 						<Col l ={3} m={3} s={12}>
-						    <Card className='white darken-1' textClassName='black-text' title={['Email ', <span><Icon>photo</Icon></span>]} actions={[<a href='exscruzme@gmail.com'>exscruzme@gmail.com</a>]}>
+						    <Card className='white darken-1' textClassName='black-text' title={['Email ', <span><Icon>photo</Icon></span>]} actions={[<a href='mailto:exscruzme@gmail.com'>exscruzme@gmail.com</a>]}>
 						    Check out what I've been working on.
 						    </Card>
 						</Col>
