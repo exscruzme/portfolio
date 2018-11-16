@@ -1,0 +1,18 @@
+{
+	"experiences": [
+		{
+			"id":1,
+			"title": "Software Engineer, American Express",
+			"reveal": "More stuff about me working at Amex",
+			"date": "2016 - Present",
+			"logo": "./amex_logo.png"
+		},
+		{
+			"id":2,
+			"title": "Big Data Engineering Intern, Michelin",
+			"reveal": "More stuff about me working at Michelin",
+			"date": "Summer 2014",
+			"logo": "./michelin_logo.png"
+		}
+	]
+}
