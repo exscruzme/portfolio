@@ -1,7 +1,7 @@
 {
   "main.css": "/portfolio/static/css/main.83619877.chunk.css",
-  "main.js": "/portfolio/static/js/main.391844f2.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.391844f2.chunk.js.map",
+  "main.js": "/portfolio/static/js/main.afa96feb.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.afa96feb.chunk.js.map",
   "static/js/1.59ca8c6d.chunk.js": "/portfolio/static/js/1.59ca8c6d.chunk.js",
   "static/js/1.59ca8c6d.chunk.js.map": "/portfolio/static/js/1.59ca8c6d.chunk.js.map",
   "runtime~main.js": "/portfolio/static/js/runtime~main.ee2a1003.js",
@@ -10,6 +10,6 @@
   "static/media/amex_logo.png": "/portfolio/static/media/amex_logo.89a62e9b.png",
   "static/media/michelin_logo.png": "/portfolio/static/media/michelin_logo.aa43e459.png",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.0a2cdc95a936369885adf19e490cc98e.js": "/portfolio/precache-manifest.0a2cdc95a936369885adf19e490cc98e.js",
+  "precache-manifest.575080a2f5e0252150f87d61b3b17406.js": "/portfolio/precache-manifest.575080a2f5e0252150f87d61b3b17406.js",
   "service-worker.js": "/portfolio/service-worker.js"
 }
